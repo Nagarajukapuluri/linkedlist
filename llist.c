@@ -4,7 +4,7 @@
 
 struct node
 {
-    int data;
+    int data;fggggg
     struct node *link;
 };
 
